@@ -2816,3 +2816,4 @@ function OR(...args) {
 
 function NOT(array) {
     return array.map(c => !c);
+}
