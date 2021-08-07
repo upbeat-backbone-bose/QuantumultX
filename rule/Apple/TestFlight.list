@@ -1,3 +1,3 @@
 # TestFlight
-DOMAIN,beta.apple.com
-DOMAIN,testflight.apple.com
+HOST-SUFFIX,beta.apple.com
+HOST-SUFFIX,testflight.apple.com
