@@ -1,10 +1,10 @@
 # > Twitter
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,vine.co
+HOST-SUFFIX,pscp.tv
+HOST-SUFFIX,periscope.tv
+HOST-SUFFIX,t.co
+HOST-SUFFIX,twimg.co
+HOST-SUFFIX,twimg.com
+HOST-SUFFIX,twitpic.com
+HOST-SUFFIX,twitter.com
+HOST-SUFFIX,twitter.jp
+HOST-SUFFIX,vine.co
