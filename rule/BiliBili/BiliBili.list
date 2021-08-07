@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,biliapi.net,bilibili
-DOMAIN-SUFFIX,bilibili.com,bilibili
-DOMAIN,upos-hz-mirrorakam.akamaized.net,bilibili
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,bilibili
+HOST-SUFFIX,biliapi.net,bilibili
+HOST-SUFFIX,bilibili.com,bilibili
+HOST,upos-hz-mirrorakam.akamaized.net,bilibili
+HOST-KEYWORD,cn-hk-eq-bcache-,bilibili
