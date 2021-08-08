@@ -9,7 +9,7 @@
 ==============Quantumult X===========
 [task_local]
 #取关京东店铺商品
-55 23 * * * jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+55 23 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_unsubscribe.js, tag=取关京东店铺商品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 ===========Loon============
 [Script]
 cron "55 23 * * *" script-path=jd_unsubscribe.js,tag=取关京东店铺商品
