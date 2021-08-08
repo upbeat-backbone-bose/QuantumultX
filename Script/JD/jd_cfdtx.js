@@ -9,7 +9,7 @@ cron 59 11,12,23 * * * jd_cfdtx.js
 ============Quantumultx===============
 [task_local]
 #京喜财富岛提现
-59 11,12,23 * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true
+59 11,12,23 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_cfdtx.js, tag=京喜财富岛提现, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true
 
 ================Loon==============
 [Script]
