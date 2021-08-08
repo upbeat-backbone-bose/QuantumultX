@@ -10,7 +10,7 @@
 ============Quantumultx===============
 [task_local]
 #京东极速版红包
-20 0,22 * * * jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+20 0,22 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 
 ================Loon==============
 [Script]
