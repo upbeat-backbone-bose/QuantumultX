@@ -5,7 +5,7 @@
 =================QuantumultX==============
 [task_local]
 #领金贴
-10 0 * * * jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+10 0 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_jin_tie.js, tag=领金贴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 ===========Loon===============
 [Script]
 cron "10 0 * * *" script-path=jd_jin_tie.js,tag=领金贴
