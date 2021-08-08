@@ -9,7 +9,7 @@ cron 5 * * * * jd_cfd.js
 ============Quantumultx===============
 [task_local]
 #京喜财富岛
-5 * * * * https://raw.githubusercontent.com/Aaron-lv/sync/jd_scripts/jd_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true
+5 * * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true
 
 ================Loon==============
 [Script]
