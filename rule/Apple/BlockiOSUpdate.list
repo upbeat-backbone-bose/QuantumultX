@@ -1,4 +1,4 @@
-# Block iOS Update
+# 阻止 iOS 更新
 host,mesu.apple.com,REJECT
 host,gdmf.apple.com,REJECT
 host,updates-http.cdn-apple.com,REJECT
