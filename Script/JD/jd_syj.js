@@ -8,7 +8,7 @@ Last Modified time: 2021-7-3 17:58:02
 ============Quantumultx===============
 [task_local]
 #赚京豆
-10 0,7,23 * * * jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true
+10 0,7,23 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_syj.js, tag=赚京豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true
 
 ================Loon==============
 [Script]
