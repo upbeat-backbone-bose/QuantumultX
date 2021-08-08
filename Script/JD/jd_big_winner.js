@@ -6,7 +6,7 @@
 =================================Quantumultx=========================
 [task_local]
 #省钱大赢家之翻翻乐
-20 * * * * jd_big_winner.js, tag=省钱大赢家之翻翻乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+20 * * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_big_winner.js, tag=省钱大赢家之翻翻乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 
 =================================Loon===================================
 [Script]
