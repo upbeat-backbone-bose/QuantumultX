@@ -7,7 +7,7 @@ Last Modified time: 2020-11-20 14:11:01
 ============Quantumultx===============
 [task_local]
 #天天提鹅
-10 * * * * jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true
+10 * * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true
 
 ================Loon==============
 [Script]
