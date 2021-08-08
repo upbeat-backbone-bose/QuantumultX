@@ -8,7 +8,7 @@
 ============Quantumultx===============
 [task_local]
 # 京东赚赚
-10 0 * * * jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true
+10 0 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true
 
 ================Loon==============
 [Script]
