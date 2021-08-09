@@ -13,7 +13,7 @@ c、 每日第10001-30000名可获得20个京豆
 ===================quantumultx================
 [task_local]
 #京东手机狂欢城
-0 0-18/6 * * * gua_carnivalcity.js, tag=京东手机狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
+0 0-18/6 * * * https://raw.githubusercontent.com/zzm1908822163/QuantumultX/master/Script/JD/jd_carnivalcity.js, tag=京东手机狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true
 
 =====================Loon================
 [Script]
