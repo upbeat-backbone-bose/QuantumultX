@@ -1,3 +1,4 @@
 # TestFlight
-host, beta.apple.com, apple
-host, testflight.apple.com, apple
+HOST, beta.apple.com, Apple
+HOST, testflight.apple.com, Apple
+HOST-KEYWORD, testflight, Apple
