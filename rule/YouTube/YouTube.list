@@ -1,7 +1,6 @@
-HOST,youtubei.googleapis.com,YouTube
-HOST-KEYWORD,youtube,YouTube
+USER-AGENT,com.google.ios.youtube*,YouTube
+USER-AGENT,YouTube*,YouTube
 HOST-SUFFIX,googlevideo.com,YouTube
 HOST-SUFFIX,youtube.com,YouTube
-HOST-SUFFIX,googleapis.com,YouTube
-USER-AGENT,*youtube*,YouTube
-USER-AGENT,YouTube*,YouTube
+HOST,youtubei.googleapis.com,YouTube
+HOST-KEYWORD,youtube,YouTube
