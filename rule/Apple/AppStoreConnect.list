@@ -1,4 +1,5 @@
-# > App Store Connect
-DOMAIN,appstoreconnect.apple.com
-DOMAIN,iosapps-ssl.itunes.apple.com
-DOMAIN,itcmobile.itunes.apple.com
+# App Store Connect
+HOST,appstoreconnect.apple.com,apple
+HOST,iosapps-ssl.itunes.apple.com,apple
+HOST,itcmobile.itunes.apple.com,apple
+HOST-KEYWORD,AppStore,apple
