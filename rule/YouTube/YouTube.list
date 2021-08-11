@@ -1,5 +1,6 @@
 USER-AGENT,com.google.ios.youtube*,YouTube
 USER-AGENT,YouTube*,YouTube
+HOST,app-measurement.com,YouTube
 HOST-SUFFIX,googlevideo.com,YouTube
 HOST-SUFFIX,youtube.com,YouTube
 HOST,youtubei.googleapis.com,YouTube
