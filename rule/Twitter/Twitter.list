@@ -1,8 +1,8 @@
-HOST-SUFFIX,pscp.tv,PROXY
-HOST-SUFFIX,periscope.tv,PROXY
-HOST-SUFFIX,t.co,PROXY
-HOST-SUFFIX,twimg.co,PROXY
-HOST-SUFFIX,twimg.com,PROXY
-HOST-SUFFIX,twitpic.com,PROXY
-HOST-SUFFIX,vine.co,PROXY
-HOST-KEYWORD,twitter,PROXY
+HOST-SUFFIX,pscp.tv,Twitter
+HOST-SUFFIX,periscope.tv,Twitter
+HOST-SUFFIX,t.co,Twitter
+HOST-SUFFIX,twimg.co,Twitter
+HOST-SUFFIX,twimg.com,Twitter
+HOST-SUFFIX,twitpic.com,Twitter
+HOST-SUFFIX,vine.co,Twitter
+HOST-KEYWORD,twitter,Twitter
