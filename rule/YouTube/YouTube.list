@@ -3,4 +3,6 @@ USER-AGENT,YouTube*,YouTube
 HOST-SUFFIX,googlevideo.com,YouTube
 HOST-SUFFIX,youtube.com,YouTube
 HOST,youtubei.googleapis.com,YouTube
+HOST-SUFFIX,ytimg.com,YouTube
+HOST-SUFFIX,ggpht.com,YouTube
 HOST-KEYWORD,youtube,YouTube
