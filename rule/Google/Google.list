@@ -19,3 +19,5 @@ host,oauthaccountmanager.googleapis.com,Google Voice
 host,www.googleapis.com,Google Voice
 host-suffix,lens.l.google.com,Google Voice
 host-suffix,voice.telephony.goog,Google Voice
+
+HOST-KEYWORD,google.com,Google
