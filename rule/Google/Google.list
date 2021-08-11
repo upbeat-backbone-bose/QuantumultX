@@ -2,3 +2,10 @@
 HOST,pop.gmail.com,Google
 HOST,imap.gmail.com,Google
 HOST,smtp.gmail.com,Google
+
+# Google Driver
+HOST-SUFFIX,docs.google.com,GoogleDrive
+HOST-SUFFIX,drive.google.com,GoogleDrive
+HOST-SUFFIX,googledrive.com,GoogleDrive
+HOST-SUFFIX,googleusercontent.com,GoogleDrive
+HOST,www.googleapis.com,GoogleDrive
