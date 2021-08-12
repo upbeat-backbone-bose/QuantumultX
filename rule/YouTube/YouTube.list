@@ -1,4 +1,6 @@
 HOST,app-measurement.com,YouTube
+HOST,tpc.googlesyndication.com,YouTube
+HOST,googleads.g.doubleclick.net,YouTube
 HOST-SUFFIX,googlevideo.com,YouTube
 HOST-SUFFIX,youtube.com,YouTube
 HOST,youtubei.googleapis.com,YouTube
